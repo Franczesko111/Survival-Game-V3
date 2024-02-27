@@ -14,6 +14,7 @@ Game::~Game()
 void Game::Draw()
 {
     player.Draw();
+    DrawFPS(0, 0);
 }
 
 void Game::Update()

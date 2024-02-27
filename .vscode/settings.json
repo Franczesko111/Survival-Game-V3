@@ -9,7 +9,10 @@
 		"**/*.exe": true,
 	},
 	"cSpell.words": [
-		"LIGHTGRAY"
+		"endframe",
+		"LIGHTGRAY",
+		"startframe",
+		"timeleft"
 	],
 	"workbench.colorCustomizations": {
 		"activityBar.activeBackground": "#1a4427",
@@ -30,5 +33,8 @@
 		"titleBar.inactiveBackground": "#0c1f1299",
 		"titleBar.inactiveForeground": "#e7e7e799"
 	},
-	"peacock.color": "#0c1f12"
+	"peacock.color": "#0c1f12",
+	"files.associations": {
+		"ostream": "cpp"
+	}
 }
